@@ -12,5 +12,3 @@ SecureAuthOS is a biometric authentication system for sensitive files. It verifi
 - Auto dependency install
 - Final obfuscation-ready
 
-## 🗂 Folder Structure
-
